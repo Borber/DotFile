@@ -1,0 +1,1624 @@
+Jan 01 00:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 00:53 : update: added iease-music/Bag Raiders - Shooting Stars.mp3
+Jan 01 00:53 : client: [0] opened from 127.0.0.1:36782
+Jan 01 00:53 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 01 01:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 01 01:45 : client: [0] opened from 127.0.0.1:50440
+Jan 01 01:45 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 02 00:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 00:31 : client: [0] opened from 127.0.0.1:55348
+Jan 02 00:31 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 02 08:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 08:33 : client: [0] opened from 127.0.0.1:59150
+Jan 02 08:33 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 02 13:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 02 13:53 : client: [0] opened from 127.0.0.1:60184
+Jan 02 13:53 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 03 10:54 : client: [1] opened from 127.0.0.1:36944
+Jan 03 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 10:55 : exception: Failed to enable output "pulse audio" (pulse)
+Jan 03 10:55 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 03 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 10:57 : client: [2] opened from 127.0.0.1:37186
+Jan 03 10:57 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 10:57 : client: [2] closed
+Jan 03 10:58 : client: [3] opened from 127.0.0.1:37188
+Jan 03 10:58 : client: [3] closed
+Jan 03 10:58 : exception: Failed to enable output "pulse audio" (pulse)
+Jan 03 10:58 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 03 10:58 : client: [4] opened from 127.0.0.1:37192
+Jan 03 10:58 : client: [4] closed
+Jan 03 10:58 : client: [5] opened from 127.0.0.1:37196
+Jan 03 10:58 : client: [5] closed
+Jan 03 10:58 : client: [6] opened from 127.0.0.1:37198
+Jan 03 10:58 : client: [6] closed
+Jan 03 10:58 : client: [7] opened from 127.0.0.1:37200
+Jan 03 10:58 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 10:58 : client: [7] closed
+Jan 03 10:58 : client: [8] opened from 127.0.0.1:37202
+Jan 03 10:58 : client: [8] closed
+Jan 03 10:58 : client: [9] opened from 127.0.0.1:37204
+Jan 03 10:58 : exception: Number too large: -1
+Jan 03 10:58 : client: [9] closed
+Jan 03 10:58 : client: [10] opened from 127.0.0.1:37206
+Jan 03 10:58 : client: [10] closed
+Jan 03 10:58 : client: [11] opened from 127.0.0.1:37210
+Jan 03 10:58 : client: [11] closed
+Jan 03 10:58 : client: [12] opened from 127.0.0.1:37212
+Jan 03 10:58 : client: [12] closed
+Jan 03 10:58 : exception: Failed to enable output "pulse audio" (pulse)
+Jan 03 10:58 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 03 10:58 : client: [13] opened from 127.0.0.1:37214
+Jan 03 10:58 : client: [13] closed
+Jan 03 10:58 : client: [14] opened from 127.0.0.1:37216
+Jan 03 10:58 : client: [14] closed
+Jan 03 10:58 : client: [15] opened from 127.0.0.1:37218
+Jan 03 10:58 : client: [15] closed
+Jan 03 10:58 : client: [16] opened from 127.0.0.1:37222
+Jan 03 10:58 : client: [16] closed
+Jan 03 11:00 : client: [0] closed
+Jan 03 11:00 : client: [17] opened from 127.0.0.1:37296
+Jan 03 11:01 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 11:11 : exception: Failed to enable output "pulse audio" (pulse)
+Jan 03 11:11 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 03 11:15 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 11:15 : client: [17] closed
+Jan 03 11:15 : client: [18] opened from 127.0.0.1:38304
+Jan 03 11:15 : client: [1] closed
+Jan 03 11:36 : client: [19] opened from 127.0.0.1:39140
+Jan 03 11:36 : exception: Failed to enable output "pulse audio" (pulse)
+Jan 03 11:36 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 03 11:36 : client: [19] closed
+Jan 03 11:39 : client: [20] opened from 127.0.0.1:39246
+Jan 03 11:40 : client: [20] closed
+Jan 03 11:43 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 11:44 : client: [21] opened from 127.0.0.1:39418
+Jan 03 11:44 : client: [21] closed
+Jan 03 11:49 : client: [22] opened from 127.0.0.1:39574
+Jan 03 11:49 : exception: Failed to enable output "pulse audio" (pulse)
+Jan 03 11:49 : exception: nested: pa_context_connect() has failed: Connection refused
+Jan 03 11:49 : client: [22] closed
+Jan 03 11:52 : client: [23] opened from 127.0.0.1:39674
+Jan 03 11:53 : client: [23] closed
+Jan 03 11:56 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 11:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 11:57 : client: [0] opened from 127.0.0.1:60894
+Jan 03 11:57 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 03 11:57 : client: [1] opened from 127.0.0.1:60908
+Jan 03 11:57 : client: [1] closed
+Jan 03 11:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 12:01 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 12:01 : client: [2] opened from 127.0.0.1:60910
+Jan 03 12:01 : client: [2] closed
+Jan 03 12:01 : client: [3] opened from 127.0.0.1:60914
+Jan 03 12:02 : client: [3] closed
+Jan 03 12:03 : client: [4] opened from 127.0.0.1:60946
+Jan 03 12:03 : client: [4] closed
+Jan 03 12:04 : update: added iease-music/李克勤 - 月半小夜曲.mp3
+Jan 03 12:04 : client: [5] opened from 127.0.0.1:32854
+Jan 03 12:05 : client: [5] closed
+Jan 03 12:05 : client: [6] opened from 127.0.0.1:32860
+Jan 03 12:05 : client: [6] closed
+Jan 03 12:05 : client: [7] opened from 127.0.0.1:32862
+Jan 03 12:05 : client: [7] closed
+Jan 03 12:05 : client: [8] opened from 127.0.0.1:32864
+Jan 03 12:05 : client: [8] closed
+Jan 03 12:05 : client: [9] opened from 127.0.0.1:32866
+Jan 03 12:05 : client: [9] closed
+Jan 03 12:05 : client: [10] opened from 127.0.0.1:32868
+Jan 03 12:05 : client: [10] closed
+Jan 03 12:05 : client: [11] opened from 127.0.0.1:32870
+Jan 03 12:05 : client: [11] closed
+Jan 03 12:05 : client: [12] opened from 127.0.0.1:32872
+Jan 03 12:05 : client: [12] closed
+Jan 03 12:05 : client: [13] opened from 127.0.0.1:32874
+Jan 03 12:05 : client: [13] closed
+Jan 03 12:06 : client: [14] opened from 127.0.0.1:32878
+Jan 03 12:10 : player: played "iease-music/李克勤 - 月半小夜曲.mp3"
+Jan 03 12:11 : client: [15] opened from 127.0.0.1:32884
+Jan 03 12:11 : client: [15] closed
+Jan 03 12:11 : client: [16] opened from 127.0.0.1:32886
+Jan 03 12:11 : client: [16] closed
+Jan 03 12:12 : update: added 1992.李克勤.红日/李克勤.红日.flac
+Jan 03 12:12 : update: added 1994.李克勤.一生何求/李克勤.一生何求.flac
+Jan 03 12:12 : update: added 1995.李克勤.不懂温柔/李克勤.不懂温柔.flac
+Jan 03 12:12 : update: added 1996.李克勤.宝丽金88极品音色系列/李克勤.宝丽金88极品音色系列CD2/李克勤.宝丽金88极品音色系列CD2.flac
+Jan 03 12:12 : update: updating 1996.李克勤.宝丽金88极品音色系列/李克勤.宝丽金88极品音色系列CD2/李克勤.宝丽金88极品音色系列CD2.flac
+Jan 03 12:12 : update: added 1996.李克勤.宝丽金88极品音色系列/李克勤.宝丽金88极品音色系列CD1/李克勤.宝丽金88极品音色系列CD1.flac
+Jan 03 12:12 : update: added 2004.李克勤.容祖儿.压轴拉阔音乐会/李克勤.容祖儿.压轴拉阔音乐会CD2/李克勤.容祖儿.压轴拉阔音乐会CD2.flac
+Jan 03 12:13 : update: updating 2004.李克勤.容祖儿.压轴拉阔音乐会/李克勤.容祖儿.压轴拉阔音乐会CD2/李克勤.容祖儿.压轴拉阔音乐会CD2.flac
+Jan 03 12:13 : update: added 2004.李克勤.容祖儿.压轴拉阔音乐会/李克勤.容祖儿.压轴拉阔音乐会CD1/李克勤.容祖儿.压轴拉阔音乐会CD1.flac
+Jan 03 12:13 : update: added 2005.李克勤.爱可以问谁/李克勤.爱可以问谁.flac
+Jan 03 12:13 : update: added 2009.李克勤.谭咏麟.左麟右李演唱会/李克勤.谭咏麟.左麟右李演唱会CD3/李克勤.谭咏麟.左麟右李演唱会CD3.flac
+Jan 03 12:13 : update: updating 2009.李克勤.谭咏麟.左麟右李演唱会/李克勤.谭咏麟.左麟右李演唱会CD3/李克勤.谭咏麟.左麟右李演唱会CD3.flac
+Jan 03 12:13 : update: added 2009.李克勤.谭咏麟.左麟右李演唱会/李克勤.谭咏麟.左麟右李演唱会CD2/李克勤.谭咏麟.左麟右李演唱会CD2.flac
+Jan 03 12:13 : update: added 2009.李克勤.谭咏麟.左麟右李演唱会/李克勤.谭咏麟.左麟右李演唱会CD1/李克勤.谭咏麟.左麟右李演唱会CD1.flac
+Jan 03 12:13 : update: added 2012.李克勤.在森林和原野/李克勤.在森林和原野.flac
+Jan 03 12:13 : update: added 2013.李克勤.复克/李克勤.复克.flac
+Jan 03 12:13 : update: added 2014.李克勤.精选到无朋友CD1/李克勤.精选到无朋友CD1.flac
+Jan 03 12:13 : update: added 2014.李克勤.精选到无朋友CD2/李克勤.精选到无朋友CD2.flac
+Jan 03 12:13 : update: added 2014.李克勤.精选到无朋友CD3/李克勤.精选到无朋友CD3.flac
+Jan 03 12:13 : update: added 2014.李克勤.精选到无朋友CD4/李克勤.精选到无朋友CD4.flac
+Jan 03 12:16 : client: [14] closed
+Jan 03 12:16 : client: [17] opened from 127.0.0.1:32894
+Jan 03 12:24 : client: [18] opened from 127.0.0.1:32972
+Jan 03 12:24 : player: played "1992.李克勤.红日/李克勤.红日.flac"
+Jan 03 12:24 : client: [18] closed
+Jan 03 12:24 : client: [19] opened from 127.0.0.1:32988
+Jan 03 12:24 : client: [19] closed
+Jan 03 12:25 : client: [20] opened from 127.0.0.1:32990
+Jan 03 12:25 : client: [20] closed
+Jan 03 13:17 : client: [17] closed
+Jan 03 13:17 : client: [21] opened from 127.0.0.1:34844
+Jan 03 13:18 : client: [21] closed
+Jan 03 13:18 : client: [22] opened from 127.0.0.1:34866
+Jan 03 13:18 : client: [22] closed
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2013.陈奕迅.The Key 2CD/2013.陈奕迅.The Key 2CD/陈奕迅.The Key/陈奕迅.The Key.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2013.陈奕迅.The Key 2CD/2013.陈奕迅.The Key 2CD/陈奕迅.The Key Bonus CD/陈奕迅.The Key Bonus CD.flac
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Sound & Sight CD4/2006.陈奕迅.Sound & Sight CD4/陈奕迅.Sound & Sight CD4.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : client: [23] opened from 127.0.0.1:34882
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2002.陈奕迅.Eason 4 A Change & Hits 2CD/2002.陈奕迅.Eason 4 A Change & Hits 2CD/陈奕迅.Eason 4 A Change & Hits CD2/陈奕迅.Eason 4 A Change & Hits CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2002.陈奕迅.Eason 4 A Change & Hits 2CD/2002.陈奕迅.Eason 4 A Change & Hits 2CD/陈奕迅.Eason 4 A Change & Hits CD1/陈奕迅.Eason 4 A Change & Hits CD1.flac
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Life Continues…/2006.陈奕迅.Life Continues…/陈奕迅.Life Continues….flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.Eason's Moving On Stage 1 3CD/2007.陈奕迅.Eason's Moving On Stage 1 3CD/陈奕迅.Eason's Moving On Stage 1 CD2/陈奕迅.Eason's Moving On Stage 1 CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.Eason's Moving On Stage 1 3CD/2007.陈奕迅.Eason's Moving On Stage 1 3CD/陈奕迅.Eason's Moving On Stage 1 CD3/陈奕迅.Eason's Moving On Stage 1 CD3.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.Eason's Moving On Stage 1 3CD/2007.陈奕迅.Eason's Moving On Stage 1 3CD/陈奕迅.Eason's Moving On Stage 1 CD1/陈奕迅.Eason's Moving On Stage 1 CD1.flac
+Jan 03 13:19 : update: added 1996.陈奕迅.陈奕迅/陈奕迅.陈奕迅.flac
+Jan 03 13:19 : update: added PT80.2004.陈奕迅.英皇钢琴热恋系列/2004.陈奕迅.英皇钢琴热恋系列/陈奕迅.英皇钢琴热恋系列.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.1999.陈奕迅.婚礼的祝福/1999.陈奕迅.婚礼的祝福/陈奕迅.婚礼的祝福.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2004.陈奕迅.叶倩文.903 id Club 拉阔音乐会 2CD/2004.陈奕迅.叶倩文.903 id Club 拉阔音乐会 2CD/陈奕迅.叶倩文.903 id Club 拉阔音乐会CD2/陈奕迅.叶倩文.903 id Club 拉阔音乐会CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2004.陈奕迅.叶倩文.903 id Club 拉阔音乐会 2CD/2004.陈奕迅.叶倩文.903 id Club 拉阔音乐会 2CD/陈奕迅.叶倩文.903 id Club 拉阔音乐会CD1/陈奕迅.叶倩文.903 id Club 拉阔音乐会CD1.flac
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.认了吧/2007.陈奕迅.认了吧/陈奕迅.认了吧.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2009.陈奕迅.The Best Moment 3CD/2009.陈奕迅.The Best Moment 3CD/陈奕迅.The Best Moment CD1/陈奕迅.The Best Moment CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2009.陈奕迅.The Best Moment 3CD/2009.陈奕迅.The Best Moment 3CD/陈奕迅.The Best Moment CD3/陈奕迅.The Best Moment CD3.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2009.陈奕迅.The Best Moment 3CD/2009.陈奕迅.The Best Moment 3CD/陈奕迅.The Best Moment CD2/陈奕迅.The Best Moment CD2.flac
+Jan 03 13:19 : update: added PT80.1998.陈奕迅.新生活 新歌+精选/1998.陈奕迅.新生活 新歌+精选/陈奕迅.新生活 新歌+精选.flac
+Jan 03 13:19 : update: added PT80.2001.陈奕迅.Shall We Dance？Shall We Talk！/2001.陈奕迅.Shall We Dance？Shall We Talk！/陈奕迅.Shall We Dance？Shall We Talk！.flac
+Jan 03 13:19 : update: added PT80.2008.陈奕迅.不想放手/2008.陈奕迅.不想放手/陈奕迅.不想放手.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.1999.陈奕迅.幸福 2CD/1999.陈奕迅.幸福 2CD/陈奕迅.幸福 CD2/陈奕迅.幸福 CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.1999.陈奕迅.幸福 2CD/1999.陈奕迅.幸福 2CD/陈奕迅.幸福 CD1/陈奕迅.幸福 CD1.flac
+Jan 03 13:19 : update: added PT80.1999.陈奕迅.天佑爱人/1999.陈奕迅.天佑爱人/陈奕迅.天佑爱人.flac
+Jan 03 13:19 : update: added PT80.2010.陈奕迅.Taste The Atmosphere/2010.陈奕迅.Taste The Atmosphere/陈奕迅.Taste The Atmosphere.flac
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Sound & Sight CD5 钢琴音乐集/2006.陈奕迅.Sound & Sight CD5 钢琴音乐集/陈奕迅.Sound & Sight CD5 钢琴音乐集.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Get a Life Eason Chan Live in Hong Kong 3CD/2006.陈奕迅.Get a Life Eason Chan Live in Hong Kong 3CD/陈奕迅.Get a Life Eason Chan Live in Hong Kong CD2/陈奕迅.Get a Life Eason Chan Live in Hong Kong CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Get a Life Eason Chan Live in Hong Kong 3CD/2006.陈奕迅.Get a Life Eason Chan Live in Hong Kong 3CD/陈奕迅.Get a Life Eason Chan Live in Hong Kong CD3/陈奕迅.Get a Life Eason Chan Live in Hong Kong CD3.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Get a Life Eason Chan Live in Hong Kong 3CD/2006.陈奕迅.Get a Life Eason Chan Live in Hong Kong 3CD/陈奕迅.Get a Life Eason Chan Live in Hong Kong CD1/陈奕迅.Get a Life Eason Chan Live in Hong Kong CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2002.陈奕迅.The Line-Up 2CD/2002.陈奕迅.The Line-Up 2CD/陈奕迅.The Line-Up CD1/陈奕迅.The Line-Up CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2002.陈奕迅.The Line-Up 2CD/2002.陈奕迅.The Line-Up 2CD/陈奕迅.The Line-Up CD2/陈奕迅.The Line-Up CD2.flac
+Jan 03 13:19 : update: added PT80.2005.陈奕迅.U87/2005.陈奕迅.U87/陈奕迅.U87.flac
+Jan 03 13:19 : update: added PT80.2003.陈奕迅.黑白灰/2003.陈奕迅.黑白灰/陈奕迅.黑白灰.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2011.陈奕迅.Stranger Under My Skin 2CD/2011.陈奕迅.Stranger Under My Skin 2CD/陈奕迅.Stranger Under My Skin Bonus CD/陈奕迅.Stranger Under My Skin Bonus CD.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2011.陈奕迅.Stranger Under My Skin 2CD/2011.陈奕迅.Stranger Under My Skin 2CD/陈奕迅.Stranger Under My Skin/陈奕迅.Stranger Under My Skin.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2005.陈奕迅.Great 5000 Secs 新曲+精选/2005.陈奕迅.Great 5000 Secs 新曲+精选/陈奕迅.Great 5000 Secs 新曲+精选.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2001.陈奕迅.反正是我/2001.陈奕迅.反正是我/陈奕迅.反正是我.flac
+Jan 03 13:19 : update: added PT80.2013.陈奕迅.Eason's Life 2CD/2013.陈奕迅.Eason's Life 2CD/陈奕迅.Eason's Life CD1/陈奕迅.Eason's Life CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2013.陈奕迅.Eason's Life 2CD/2013.陈奕迅.Eason's Life 2CD/陈奕迅.Eason's Life CD2/陈奕迅.Eason's Life CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD2/陈奕迅.七 新歌+精选CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD1/陈奕迅.七 新歌+精选CD1.flac
+Jan 03 13:19 : update: added PT80.2000.陈奕迅.Nothing Really Matters/2000.陈奕迅.Nothing Really Matters/陈奕迅.Nothing Really Matters.flac
+Jan 03 13:19 : update: added PT80.2014.陈奕迅.广东精选 SACD/2014.陈奕迅.广东精选 SACD/陈奕迅.广东精选 SACD.flac
+Jan 03 13:19 : update: added PT80.2008.陈奕迅.LPCD45/2008.陈奕迅.LPCD45/陈奕迅.LPCD45.flac
+Jan 03 13:19 : update: added PT80.1997.陈奕迅.与我常在/1997.陈奕迅.与我常在/陈奕迅.与我常在.flac
+Jan 03 13:19 : update: added PT80.2012.陈奕迅....3mm/2012.陈奕迅....3mm/陈奕迅....3mm.flac
+Jan 03 13:19 : update: added PT80.2005.陈奕迅.怎么样/2005.陈奕迅.怎么样/陈奕迅.怎么样.flac
+Jan 03 13:19 : update: added PT80.2010.陈奕迅.Time Flies/2010.陈奕迅.Time Flies/陈奕迅.Time Flies.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2003.陈奕迅.Third Encounter Live 2CD/2003.陈奕迅.Third Encounter Live 2CD/陈奕迅.Third Encounter Live CD2/陈奕迅.Third Encounter Live CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2003.陈奕迅.Third Encounter Live 2CD/2003.陈奕迅.Third Encounter Live 2CD/陈奕迅.Third Encounter Live CD1/陈奕迅.Third Encounter Live CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2001.陈奕迅.The Easy Ride/2001.陈奕迅.The Easy Ride/陈奕迅.The Easy Ride.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2008.陈奕迅.Solidays 2CD/2008.陈奕迅.Solidays 2CD/陈奕迅.Solidays CD1/陈奕迅.Solidays CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2008.陈奕迅.Solidays 2CD/2008.陈奕迅.Solidays 2CD/陈奕迅.Solidays CD2/陈奕迅.Solidays CD2.flac
+Jan 03 13:19 : update: added PT80.2015.陈奕迅.准备中/2015.陈奕迅.准备中/陈奕迅.准备中.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2001.陈奕迅.Eason 18首选/2001.陈奕迅.Eason 18首选/陈奕迅.Eason 18首选.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2014.陈奕迅.Rice & Shine 2CD/2014.陈奕迅.Rice & Shine 2CD/陈奕迅.Rice/陈奕迅.Rice.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2014.陈奕迅.Rice & Shine 2CD/2014.陈奕迅.Rice & Shine 2CD/陈奕迅.Shine/陈奕迅.Shine.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.What's Going On…？2CD/2006.陈奕迅.What's Going On…？2CD/陈奕迅.What's Going On…？/陈奕迅.What's Going On…？.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.What's Going On…？2CD/2006.陈奕迅.What's Going On…？2CD/陈奕迅.What's Going On…？Bonus CD/陈奕迅.What's Going On…？Bonus CD.flac
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Sound & Sight CD3/2006.陈奕迅.Sound & Sight CD3/陈奕迅.Sound & Sight CD3.flac
+Jan 03 13:19 : update: added PT80.1998.陈奕迅.我的快乐时代/1998.陈奕迅.我的快乐时代/陈奕迅.我的快乐时代.flac
+Jan 03 13:19 : update: added PT80.2002.陈奕迅.五星级的家/2002.陈奕迅.五星级的家/陈奕迅.五星级的家.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2010.陈奕迅.DUO 陈奕迅2010演唱会 3CD/2010.陈奕迅.DUO 陈奕迅2010演唱会 3CD/陈奕迅.DUO 陈奕迅2010演唱会CD2/陈奕迅.DUO 陈奕迅2010演唱会CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2010.陈奕迅.DUO 陈奕迅2010演唱会 3CD/2010.陈奕迅.DUO 陈奕迅2010演唱会 3CD/陈奕迅.DUO 陈奕迅2010演唱会CD1/陈奕迅.DUO 陈奕迅2010演唱会CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2010.陈奕迅.DUO 陈奕迅2010演唱会 3CD/2010.陈奕迅.DUO 陈奕迅2010演唱会 3CD/陈奕迅.DUO 陈奕迅2010演唱会CD3/陈奕迅.DUO 陈奕迅2010演唱会CD3.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2008.陈奕迅.1997-2007 跨世纪国语精选 2CD/2008.陈奕迅.1997-2007 跨世纪国语精选 2CD/陈奕迅.1997-2007 跨世纪国语精选CD2/陈奕迅.1997-2007 跨世纪国语精选CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2008.陈奕迅.1997-2007 跨世纪国语精选 2CD/2008.陈奕迅.1997-2007 跨世纪国语精选 2CD/陈奕迅.1997-2007 跨世纪国语精选CD1/陈奕迅.1997-2007 跨世纪国语精选CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.Listen To Eason Chan 2CD/2007.陈奕迅.Listen To Eason Chan 2CD/陈奕迅.Listen To Eason Chan CD1/陈奕迅.Listen To Eason Chan CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.Listen To Eason Chan 2CD/2007.陈奕迅.Listen To Eason Chan 2CD/陈奕迅.Listen To Eason Chan CD2/陈奕迅.Listen To Eason Chan CD2.flac
+Jan 03 13:19 : update: added PT80.2001.陈奕迅.Mixed Up/2001.陈奕迅.Mixed Up/陈奕迅.Mixed Up.flac
+Jan 03 13:19 : update: added PT80.2000.陈奕迅.Eason&Friends 903 id club拉阔音乐会/2000.陈奕迅.Eason&Friends 903 id club拉阔音乐会/陈奕迅.Eason&Friends 903 id club拉阔音乐会.flac
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Sound & Sight CD1/2006.陈奕迅.Sound & Sight CD1/陈奕迅.Sound & Sight CD1.flac
+Jan 03 13:19 : update: added PT80.2005.陈奕迅.Great 5000 Secs 新曲+精选Vol.2/2005.陈奕迅.Great 5000 Secs 新曲+精选Vol.2/陈奕迅.Great 5000 Secs 新曲+精选Vol.2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.你的陈奕迅 国语精选 2CD/2007.陈奕迅.你的陈奕迅 国语精选 2CD/陈奕迅.你的陈奕迅 国语精选CD1/陈奕迅.你的陈奕迅 国语精选CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2007.陈奕迅.你的陈奕迅 国语精选 2CD/2007.陈奕迅.你的陈奕迅 国语精选 2CD/陈奕迅.你的陈奕迅 国语精选CD2/陈奕迅.你的陈奕迅 国语精选CD2.flac
+Jan 03 13:19 : update: added PT80.2003.陈奕迅.Live For Today/2003.陈奕迅.Live For Today/陈奕迅.Live For Today.flac
+Jan 03 13:19 : update: added PT80.2012.陈奕迅....3mm Remix/2012.陈奕迅....3mm Remix/陈奕迅....3mm Remix.flac
+Jan 03 13:19 : update: added PT80.2009.陈奕迅.上五楼的快活/2009.陈奕迅.上五楼的快活/陈奕迅.上五楼的快活.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2002.林子祥.陈奕迅.拉阔压轴音乐会 2CD/2002.林子祥.陈奕迅.拉阔压轴音乐会 2CD/林子祥.陈奕迅.拉阔压轴音乐会CD2/林子祥.陈奕迅.拉阔压轴音乐会CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2002.林子祥.陈奕迅.拉阔压轴音乐会 2CD/2002.林子祥.陈奕迅.拉阔压轴音乐会 2CD/林子祥.陈奕迅.拉阔压轴音乐会CD1/林子祥.陈奕迅.拉阔压轴音乐会CD1.flac
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.Sound & Sight CD2/2006.陈奕迅.Sound & Sight CD2/陈奕迅.Sound & Sight CD2.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.1997.陈奕迅.酝酿/1997.陈奕迅.酝酿/陈奕迅.酝酿.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.1997.陈奕迅.一滴眼泪/1997.陈奕迅.一滴眼泪/陈奕迅.一滴眼泪.flac
+Jan 03 13:19 : update: added PT80.2011.陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会 2CD/2011.陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会 2CD/陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会CD1/陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2011.陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会 2CD/2011.陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会 2CD/陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会CD2/陈奕迅.杨千嬅.梁汉文.903 id club 拉阔音乐会CD2.flac
+Jan 03 13:19 : update: added PT80.2000.陈奕迅.打得火热/2000.陈奕迅.打得火热/陈奕迅.打得火热.flac
+Jan 03 13:19 : update: added PT80.2002.陈奕迅.Special Thanks To/2002.陈奕迅.Special Thanks To/陈奕迅.Special Thanks To.flac
+Jan 03 13:19 : update: added PT80.2009.陈奕迅.H3M/2009.陈奕迅.H3M/陈奕迅.H3M.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.我的最好时代 3CD/2006.陈奕迅.我的最好时代 3CD/陈奕迅.我的最好时代CD3/陈奕迅.我的最好时代CD3.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.我的最好时代 3CD/2006.陈奕迅.我的最好时代 3CD/陈奕迅.我的最好时代CD1/陈奕迅.我的最好时代CD1.flac
+Jan 03 13:19 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 13:19 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 13:19 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 13:19 : update: added PT80.2006.陈奕迅.我的最好时代 3CD/2006.陈奕迅.我的最好时代 3CD/陈奕迅.我的最好时代CD2/陈奕迅.我的最好时代CD2.flac
+Jan 03 13:19 : update: added PT80.2011.陈奕迅.？/2011.陈奕迅.？/陈奕迅.？.flac
+Jan 03 13:19 : update: added PT80.2000.陈奕迅.68'29''/2000.陈奕迅.68'29''/陈奕迅.68'29''.flac
+Jan 03 13:19 : update: added PT80.2009.陈奕迅.Eason Chan LPCD45/2009.陈奕迅.Eason Chan LPCD45/陈奕迅.Eason Chan LPCD45.flac
+Jan 03 13:20 : client: [24] opened from 127.0.0.1:34912
+Jan 03 13:20 : player: played "1996.陈奕迅.陈奕迅/陈奕迅.陈奕迅.flac"
+Jan 03 13:20 : client: [24] closed
+Jan 03 13:20 : client: [25] opened from 127.0.0.1:34914
+Jan 03 13:20 : client: [25] closed
+Jan 03 13:20 : client: [26] opened from 127.0.0.1:34916
+Jan 03 13:20 : client: [26] closed
+Jan 03 13:21 : update: added 黄龄/黄龄 - 痒/黄龄 - 痒.wav
+Jan 03 13:21 : update: added 朴树/朴树 - 生如夏花 [MKCD-T1942]（美卡音像引进首版）Chris Wang原创[20161006][TEAC CD-W540E]/朴树 - 生如夏花 [MKCD-T1942].wav
+Jan 03 13:22 : update: updating 朴树/朴树 - 生如夏花 [MKCD-T1942]（美卡音像引进首版）Chris Wang原创[20161006][TEAC CD-W540E]/朴树 - 生如夏花 [MKCD-T1942].wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树-我去2000年珍藏版[WAV+CUE]/朴树 - 我去2000年珍藏版.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/02.Never knows tomorrow.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/05.狗屁青春.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/07.Forever young.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/06.Baby ，До свидания.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/09.平凡之路.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/08.The fear in my heart.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/10.清白之年.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/04.好好地.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/11.未知.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/03.在木星.wav
+Jan 03 13:23 : update: added 朴树/朴树 猎户星座&我去2000年珍藏版 2CD/朴树《猎户星座》/01.空帆船.wav
+Jan 03 13:23 : update: added 张信哲/张信哲：2017 拥恒[台湾版]/张信哲：2017 拥恒[台湾版].wav
+Jan 03 13:23 : update: updating 张信哲/张信哲：2017 拥恒[台湾版]/张信哲：2017 拥恒[台湾版].wav
+Jan 03 13:23 : update: added 周杰伦/2002年10月《The.One演唱会》 双CD/周杰伦.-.[The.One演唱会.CD1].专辑.flac
+Jan 03 13:23 : update: updating 周杰伦/2002年10月《The.One演唱会》 双CD/周杰伦.-.[The.One演唱会.CD1].专辑.flac
+Jan 03 13:23 : update: added 周杰伦/2002年10月《The.One演唱会》 双CD/周杰伦.-.[The.One演唱会.CD2].专辑.flac
+Jan 03 13:24 : update: updating 周杰伦/2002年10月《The.One演唱会》 双CD/周杰伦.-.[The.One演唱会.CD2].专辑.flac
+Jan 03 13:24 : update: added 周杰伦/2002年4月《拍档》/周杰伦-拍挡.flac
+Jan 03 13:24 : update: added 周杰伦/2001年12月25日《范特西PLUS》/周杰伦-Fantasy.Plus.flac
+Jan 03 13:24 : update: added 周杰伦/2002年7月19日《八度空间》/周杰伦-八度空间.flac
+Jan 03 13:25 : update: updating 周杰伦/2002年7月19日《八度空间》/周杰伦-八度空间.flac
+Jan 03 13:25 : update: added 周杰伦/2003年7月31日《叶惠美》/周杰伦-叶惠美.flac
+Jan 03 13:25 : update: updating 周杰伦/2003年7月31日《叶惠美》/周杰伦-叶惠美.flac
+Jan 03 13:25 : update: added 周杰伦/2006年12月8日《黄金甲EP》/周杰伦-黃金甲EP(台湾版).黄金甲.flac
+Jan 03 13:25 : update: added 周杰伦/2006年12月8日《黄金甲EP》/周杰伦-黃金甲EP(台湾版).菊花台(杰伦钢琴演奏版).flac
+Jan 03 13:25 : update: added 周杰伦/2008年1月《电影大灌篮原声》/周杰伦-周大侠.flac
+Jan 03 13:25 : update: added 周杰伦/2008年8月《魔杰座》/周杰伦.-.[魔杰座].专辑.flac
+Jan 03 13:26 : update: added 周杰伦/2005年8月31日《Initial J》 (日本版)/周杰伦-Initial J(日本版).flac
+Jan 03 13:26 : update: added 周杰伦/2000年11月7日专辑《Jay》/周杰伦-JAY.flac
+Jan 03 13:26 : update: added 周杰伦/2004年8月3日《七里香》/周杰伦-七里香.flac
+Jan 03 13:26 : update: added 周杰伦/2001年9月1日《范特西》/周杰伦-范特西.flac
+Jan 03 13:27 : update: updating 周杰伦/2001年9月1日《范特西》/周杰伦-范特西.flac
+Jan 03 13:27 : update: added 周杰伦/2005年1月21日《2004无与伦比演唱会LIVE》双CD/周杰伦-2004无与伦比演唱会LIVE(CD1).flac
+Jan 03 13:27 : update: added 周杰伦/2005年1月21日《2004无与伦比演唱会LIVE》双CD/周杰伦-2004无与伦比演唱会LIVE(CD2).flac
+Jan 03 13:27 : update: updating 周杰伦/2005年1月21日《2004无与伦比演唱会LIVE》双CD/周杰伦-2004无与伦比演唱会LIVE(CD1).flac
+Jan 03 13:27 : update: added 周杰伦/2010年5月18日《跨时代》/周杰伦 - 跨时代.ape
+Jan 03 13:28 : update: updating 周杰伦/2010年5月18日《跨时代》/周杰伦 - 跨时代.ape
+Jan 03 13:28 : update: added 周杰伦/2007年11月《2007世界巡回演唱会》台北演唱会 双CD/周杰伦.-.[2007巡回演唱会.CD1].专辑.flac
+Jan 03 13:28 : update: added 周杰伦/2007年11月《2007世界巡回演唱会》台北演唱会 双CD/周杰伦.-.[2007巡回演唱会.CD2].专辑.flac
+Jan 03 13:28 : update: updating 周杰伦/2007年11月《2007世界巡回演唱会》台北演唱会 双CD/周杰伦.-.[2007巡回演唱会.CD1].专辑.flac
+Jan 03 13:28 : update: updating 周杰伦/2007年11月《2007世界巡回演唱会》台北演唱会 双CD/周杰伦.-.[2007巡回演唱会.CD2].专辑.flac
+Jan 03 13:28 : update: added 周杰伦/2003年11月11日《寻找周杰伦EP》/周杰伦-寻找周杰伦EP.flac
+Jan 03 13:28 : update: updating 周杰伦/2003年11月11日《寻找周杰伦EP》/周杰伦-寻找周杰伦EP.flac
+Jan 03 13:29 : update: added 周杰伦/2006年9月5日《依然范特西》/周杰伦-依然范特西.flac
+Jan 03 13:29 : update: added 周杰伦/2007年11月2日《我很忙》/周杰伦 - 我很忙.flac
+Jan 03 13:29 : update: added 周杰伦/2008年5月《北京2008奥运会歌曲专辑》/周杰伦-千山万水.flac
+Jan 03 13:29 : update: added 周杰伦/2005年11月1日《十一月的肖邦》/周杰伦.-.[11月的萧邦].flac
+Jan 03 13:29 : update: updating 周杰伦/2005年11月1日《十一月的肖邦》/周杰伦.-.[11月的萧邦].flac
+Jan 03 13:29 : update: added 周杰伦/2006年1月20日《霍元甲EP》/周杰伦-霍元甲EP.flac
+Jan 03 13:29 : update: added 周杰伦/2007年8月13日《不能说的秘密电影原声带》/原声大碟-[不能说的秘密].flac
+Jan 03 13:30 : update: updating 周杰伦/2007年8月13日《不能说的秘密电影原声带》/原声大碟-[不能说的秘密].flac
+Jan 03 13:51 : update: added 久石让/Vol.1/久石 譲 - NHKスペシャル驚異の小宇宙「人体Ⅱ」サウンドトラックVol.1 脳と心.flac
+Jan 03 13:52 : update: updating 久石让/Vol.1/久石 譲 - NHKスペシャル驚異の小宇宙「人体Ⅱ」サウンドトラックVol.1 脳と心.flac
+Jan 03 13:52 : update: added 久石让/Vol.2/久石譲 - NHKスペシャル 驚異の小宇宙 [人体II] サウンドトラック 心と脳 Vol.2.flac
+Jan 03 13:55 : update: updating 久石让/Vol.2/久石譲 - NHKスペシャル 驚異の小宇宙 [人体II] サウンドトラック 心と脳 Vol.2.flac
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Mission Impossible 2016.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Wonderland 2016.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Mountain King 2016.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Bumblebee 2016.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Croatian Rhapsody 2016.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Exodus 2016.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Samba de Roda.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Above the Clouds.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Claudine 2016.wav
+Jan 03 13:55 : update: added 马克西姆/Croatian Rhapsody 2016/Child in Paradise 2016.wav
+Jan 03 13:55 : update: added 日本/DAOKO - 2017.08.16 - Uchiage Hanabi/03 - Cinderella step.flac
+Jan 03 13:55 : update: added 日本/DAOKO - 2017.08.16 - Uchiage Hanabi/01 - 打上花火 (DAOKO×米津玄師).flac
+Jan 03 13:55 : update: added 日本/DAOKO - 2017.08.16 - Uchiage Hanabi/02 - Forever Friends.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Hymn For The Weekend (Alan Walker Remix).flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Millionaire (Alan Walker Remix).flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Faded.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Sing Me To Sleep.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Alone.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Faded(Absolute music version).flac
+Jan 03 13:55 : update: added Alan Walker/CD1/135.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Golden Gate 2016.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Baby Don't Go.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Shelter (Alan Walker Remix).flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Lose Your Self（Markino Faded Remix）.flac
+Jan 03 13:55 : update: added Alan Walker/CD1/Move Your Body.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Dennis.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Rays Of Light (Alan Walker Remix).flac
+Jan 03 13:55 : update: added Alan Walker/CD2/New Heart.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Ncs Style Mix.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Spectre.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Fade(Mich Remix).flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Flying Dreams.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Force.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Faded (Restrung).flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Memiories.flac
+Jan 03 13:55 : update: added Alan Walker/CD2/Light Dreams.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Toca Toca(Radio Edit).flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Little Swing.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Shots Squats.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Seve.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/All Falls Down.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Tired.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Samsara.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Alone(Lost Frequencies Remix).flac
+Jan 03 13:55 : update: added Alan Walker/CD3/The Spectre.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Panama.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Legends Never Die.flac
+Jan 03 13:55 : update: added Alan Walker/CD3/Lgnite.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/05 Henchmen.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/26 Xerxes [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/18 Shrine of Golgotha.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/06 Fields of Strife.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/07 Xerxes.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/02 Outlands.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/30 Hellfire [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/22 Ruins of Asgard [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/28 Dark Portal [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/08 Taste of Blood.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/17 Charging the Keep.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/03 Ruins of Asgard.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/04 War of the Ancients.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/14 Cataclysm.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/16 Nemesis.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/36 Prometheus [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/27 Taste of Blood [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/13 Hellfire.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/29 Crucible [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/15 Citadel of the Fallen.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/33 Nemesis [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/11 Crucible.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/24 Henchmen [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/10 Spawn.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/32 Citadel of the Fallen [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/35 Shrine of Golgotha [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/31 Cataclysm [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/09 Dark Portal.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/21 Outlands [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/12 Juggernaut.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/25 Fields of Strife [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/01 Usurper.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/23 War of the Ancients [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/34 Charging the Keep [No Choir].flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/19 Prometheus.flac
+Jan 03 13:55 : update: added Audiomachine - Leviathan [FLAC]/20 Usurper [No Choir].flac
+Jan 03 13:55 : update: added Linkin Park 15CD合集/Linkin Park - Hybrid Theory - LP - 2010 - FLAC整轨/Linkin Park - Hybrid Theory.flac
+Jan 03 13:56 : update: updating Linkin Park 15CD合集/Linkin Park - Hybrid Theory - LP - 2010 - FLAC整轨/Linkin Park - Hybrid Theory.flac
+Jan 03 13:56 : update: added Linkin Park 15CD合集/Linkin Park - Reanimation - 2002 - APE整轨/CDImage.ape
+Jan 03 13:57 : update: updating Linkin Park 15CD合集/Linkin Park - Reanimation - 2002 - APE整轨/CDImage.ape
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - Songs From The Underground -  EP - 2008 - FLAC整轨/Linkin.Park.-.[Songs.From.The.Underground.(EP)].专辑.(FLAC).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/08. What I’ve Done (M.Shinoda Remix).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/07. Divided (2005).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/03. Oh No (Points Of Authority Demo).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/02. What We Don’t Know (2007).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/10. Halo (2002).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/04. I Have Not Begun (2009).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/05. Pale (2006).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/09. Coal (1997).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/06. Pretend To Be (2008).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - LP Underground X Demos - 2010 - FLAC分轨/01. Unfortunate (2002).flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/JAY-Z vs LINKIN PARK - Collision Course - 原版 - 2004 - APE整轨/CDImage.ape
+Jan 03 13:57 : update: updating Linkin Park 15CD合集/JAY-Z vs LINKIN PARK - Collision Course - 原版 - 2004 - APE整轨/CDImage.ape
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - FLAC分轨/Linkin Park - Meteora - Side 1.flac
+Jan 03 13:57 : update: added Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - FLAC分轨/Linkin Park - Meteora - Side 2.flac
+Jan 03 13:58 : update: updating Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - FLAC分轨/Linkin Park - Meteora - Side 1.flac
+Jan 03 13:58 : update: added Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - FLAC分轨/Linkin Park - Meteora - Side 4.flac
+Jan 03 13:58 : update: updating Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - FLAC分轨/Linkin Park - Meteora - Side 4.flac
+Jan 03 13:58 : update: added Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - FLAC分轨/Linkin Park - Meteora - Side 3.flac
+Jan 03 13:58 : update: updating Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - FLAC分轨/Linkin Park - Meteora - Side 3.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Meteora - 2003 - APE整轨/LINKIN.PARK.-.[Meteora].专辑.(APE).ape
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/14 - The Catalyst - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/12 - Iridescent - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/08 - Waithing For The End - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/01 - The Requiem - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/07 - Jornada Del Muerto - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/11 - Wisdom, Justice, And Love - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/09 - Blackout - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/05 - When They Come For Me - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/04 - Empty Spaces - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/13 - Fallout - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/15 - The Messenger - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/03 - Burning In The Skies - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/10 - Wretches And Kings - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/02 - The Radiance - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - 2010 - FLAC分轨/06 - Robot Boy - Linkin Park - A Thousand Suns.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - 混合理论Hybrid Theory)Special Edition - 2000 - APE整轨/Linkin.Park.-.[Hybrid.Theory].专辑.(APE).ape
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/11-Tinfoil.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/6-Castle Of Glass.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/10-Until It Breaks.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/12-Powerless.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/5-Ill Be Gone.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/2-In My Remains.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/8-Roads Untraveled.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/1-Lost In The Echo.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/3-Burn It Down.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/9-Skin To Bone.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/7-Victimized.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Living Things - 24bit44.1kHz - 2012 - FLAC分轨/4-Lies Greed Misery.flac
+Jan 03 13:59 : update: added Linkin Park 15CD合集/Linkin Park - Live in Texas - 2003 - APE整轨/Linkin Park - Live in Texas.ape
+Jan 03 14:00 : update: updating Linkin Park 15CD合集/Linkin Park - Live in Texas - 2003 - APE整轨/Linkin Park - Live in Texas.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/10 Drawbar.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/07 Until It's Gone.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/02 All for Nothing.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/12 A Line in the Sand.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/01 Keys to the Kingdom.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/04 The Summoning.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/09 Mark the Graves.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/11 Final Masquerade.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/08 Rebellion.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/05 War.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/06 Wastelands.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - The Hunting Party - 2014 - APE分轨/03 Guilty All the Same.ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - Hybrid Theory - Demo - 1999 - APE整轨/Linkin.Park.-.[Hybrid.Theory(Demo)].专辑.(APE).ape
+Jan 03 14:00 : update: updating Linkin Park 15CD合集/Linkin Park - Hybrid Theory - Demo - 1999 - APE整轨/Linkin.Park.-.[Hybrid.Theory(Demo)].专辑.(APE).ape
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/B4. Blackout.flac
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/A5. When They Come For Me.flac
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/C2. Wisdom Justice And Love.flac
+Jan 03 14:00 : update: updating Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/B4. Blackout.flac
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/A2. The Radiance.flac
+Jan 03 14:00 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/C1. Wretches And Kings.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/C3. Iridescent.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/A1. The Requiem.flac
+Jan 03 14:01 : update: updating Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/C1. Wretches And Kings.flac
+Jan 03 14:01 : update: updating Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/C3. Iridescent.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/D2. The Catalyst.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/D1. Fallout.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/B3. Waiting For The End.flac
+Jan 03 14:01 : update: updating Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/D2. The Catalyst.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/B1. Robot Boy.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/A4. Empty Spaces.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/A3. Burning In The Skies.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/B2. Jornada Del Muerto.flac
+Jan 03 14:01 : update: added Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/D3. The Messenger.flac
+Jan 03 14:01 : update: updating Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/B1. Robot Boy.flac
+Jan 03 14:01 : update: updating Linkin Park 15CD合集/Linkin Park - A Thousand Suns - LP - 2010 - FLAC分轨/A3. Burning In The Skies.flac
+Jan 03 14:02 : update: added Linkin Park 15CD合集/Linkin Park - Minutes To Midnight - 2007 - FLAC整轨/Linkin Park - Minutes to Midnight - Side 1.flac
+Jan 03 14:02 : update: added Linkin Park 15CD合集/Linkin Park - Minutes To Midnight - 2007 - FLAC整轨/Linkin Park - Minutes to Midnight - Side 2.flac
+Jan 03 14:04 : update: updating Linkin Park 15CD合集/Linkin Park - Minutes To Midnight - 2007 - FLAC整轨/Linkin Park - Minutes to Midnight - Side 2.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/12 In Ruins.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/11 World War Me.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/03 Savages (feat. Alice Cooper).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/07 Heavy.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/09 The One.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/08 Panic Room.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/13 The Sun Has Set On Me.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/05 Salt In The Wound.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/04 Misery Of Mankind.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/06 Angel.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/02 Blow.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/01 Drown.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2014 Savages/10 Livin' My Life Like A Country Song (feat. Joe Don Rooney of Rascal Flatts).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/10 Since You ve Been Gone.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/09 Me &amp; My Girl.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/07 Say Goodbye.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/01 Hating Hollywood.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/11 Hell Just Ain t The Same.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/03 No Surprise.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/13 In The Middle.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/12 Save The Best For Last.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/05 Santa Monica.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/08 Hello Lonely (Walk Away From This).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/06 Better Off.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/02 No Way Out.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2005 Gasoline/04 Quiver.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/10 Po Mouth.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/11 Wicked Game.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/07 Loner.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/01 Straight Jacket.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/05 PCH.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/03 Echoes.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/09 Glass Jaw.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/02 Rx (Medicate).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/06 G.O.A.T.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/08 Time Machine.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2017 Wake Up Call/04 Wake Up Call.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/02.By The Way.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/10.Little Smirk.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/09.Hate My Life.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/01.So Happy.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/12.Wait For Me.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/07.Heaven (Little By Little).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/06.All Or Nothing.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/03.Got It Made.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/05.Crutch.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/08.Bad Girlfriend.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/13.Sacrifice.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/11.End Of The Summer.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2008 Scars and Souvenirs/04.Not Meant To Be.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/01.Invisible Man.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/04.Point To Prove.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/06.What You Deserve.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/03.Make Up Your Mind.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/02.Nothing Could Come Between Us.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/09.Any Other Way.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/08.Say I m Sorry.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/10.Confession.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/05.Leg To Stand On.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2002 Theory of a Deadman/07.The Last Song.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/12.We Were Men.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/08.Head Above Water.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/15.Villain (Bonus Track).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/03.Hurricane.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/02.Bitch Came Back.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/05.Gentleman.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/17.Out Of My Head (Acoustic) (Bonus Track).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/18.Easy To Love You (Acoustic) (Bonus Track).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/04.Out Of My Head.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/01.Lowlife.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/10.What Was I Thinking.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/06.Love Is Hell.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/07.The Truth Is... (I Lied About Everything).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/09.Drag Me To Hell.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/11.Easy To Love You.flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/14.Does It Really Matter (Bonus Track).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/16.Better Or Worse (Bonus Track).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2011 The Truth Is/13.Careless (Bonus Track).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2015 Angel - EP/02 - Santa Monica (Acoustic).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2015 Angel - EP/03 - Habits (Stay High) (Acoustic).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2015 Angel - EP/05 - The One (Acoustic).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2015 Angel - EP/01 - Angel (Acoustic).flac
+Jan 03 14:04 : update: added Theory of A Deadman/2015 Angel - EP/04 - Not Meant To Be (Acoustic).flac
+Jan 03 14:17 : client: [23] closed
+Jan 03 14:17 : client: [27] opened from 127.0.0.1:36266
+Jan 03 14:18 : client: [28] opened from 127.0.0.1:36282
+Jan 03 14:18 : client: [28] closed
+Jan 03 14:40 : client: [29] opened from 127.0.0.1:36296
+Jan 03 14:40 : client: [29] closed
+Jan 03 14:40 : client: [27] closed
+Jan 03 16:16 : client: [30] opened from 127.0.0.1:41178
+Jan 03 16:16 : client: [30] closed
+Jan 03 16:16 : client: [31] opened from 127.0.0.1:41186
+Jan 03 16:16 : client: [31] closed
+Jan 03 16:16 : client: [32] opened from 127.0.0.1:41190
+Jan 03 16:16 : client: [32] closed
+Jan 03 16:16 : client: [33] opened from 127.0.0.1:41192
+Jan 03 16:16 : client: [33] closed
+Jan 03 16:16 : client: [34] opened from 127.0.0.1:41196
+Jan 03 16:16 : client: [34] closed
+Jan 03 16:16 : client: [35] opened from 127.0.0.1:41198
+Jan 03 16:16 : client: [35] closed
+Jan 03 16:19 : client: [36] opened from 127.0.0.1:41292
+Jan 03 16:19 : client: [36] closed
+Jan 03 16:19 : client: [37] opened from 127.0.0.1:41302
+Jan 03 16:19 : client: [37] closed
+Jan 03 16:51 : client: [38] opened from 127.0.0.1:41738
+Jan 03 16:51 : client: [38] closed
+Jan 03 16:52 : client: [39] opened from 127.0.0.1:42050
+Jan 03 16:52 : client: [39] closed
+Jan 03 17:42 : client: [40] opened from 127.0.0.1:44196
+Jan 03 17:42 : client: [40] closed
+Jan 03 17:42 : client: [41] opened from 127.0.0.1:44198
+Jan 03 17:42 : client: [41] closed
+Jan 03 17:42 : client: [42] opened from 127.0.0.1:44200
+Jan 03 17:42 : client: [42] closed
+Jan 03 17:42 : client: [43] opened from 127.0.0.1:44204
+Jan 03 17:42 : client: [43] closed
+Jan 03 17:42 : client: [44] opened from 127.0.0.1:44206
+Jan 03 17:42 : client: [44] closed
+Jan 03 17:42 : client: [45] opened from 127.0.0.1:44210
+Jan 03 17:42 : client: [45] closed
+Jan 03 17:42 : client: [46] opened from 127.0.0.1:44218
+Jan 03 17:42 : client: [46] closed
+Jan 03 17:42 : client: [47] opened from 127.0.0.1:44220
+Jan 03 17:42 : client: [47] closed
+Jan 03 17:42 : client: [48] opened from 127.0.0.1:44222
+Jan 03 17:42 : client: [48] closed
+Jan 03 17:42 : client: [49] opened from 127.0.0.1:44224
+Jan 03 17:42 : client: [49] closed
+Jan 03 17:45 : player: played "Alan Walker/CD1/135.flac"
+Jan 03 17:45 : client: [50] opened from 127.0.0.1:44424
+Jan 03 17:45 : client: [50] closed
+Jan 03 20:21 : client: [51] opened from 127.0.0.1:52862
+Jan 03 20:21 : client: [51] closed
+Jan 03 20:21 : client: [52] opened from 127.0.0.1:52866
+Jan 03 20:21 : client: [52] closed
+Jan 03 20:21 : client: [53] opened from 127.0.0.1:52868
+Jan 03 20:21 : client: [53] closed
+Jan 03 20:21 : client: [54] opened from 127.0.0.1:52870
+Jan 03 20:21 : client: [54] closed
+Jan 03 20:21 : client: [55] opened from 127.0.0.1:52874
+Jan 03 20:21 : client: [55] closed
+Jan 03 20:21 : client: [56] opened from 127.0.0.1:52878
+Jan 03 20:21 : client: [56] closed
+Jan 03 20:21 : client: [57] opened from 127.0.0.1:52882
+Jan 03 20:21 : client: [57] closed
+Jan 03 20:21 : client: [58] opened from 127.0.0.1:52896
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 20:22 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 20:22 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 20:22 : exception: Failed to decode PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD1/陈奕迅.七 新歌+精选CD1.flac
+Jan 03 20:22 : player: played "PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD1/陈奕迅.七 新歌+精选CD1.flac"
+Jan 03 20:22 : exception: Failed to decode PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD1/陈奕迅.七 新歌+精选CD1.flac
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 03 20:22 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 03 20:22 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 03 20:22 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 03 20:22 : exception: Failed to decode PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD1/陈奕迅.七 新歌+精选CD1.flac
+Jan 03 20:22 : player: played "PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD1/陈奕迅.七 新歌+精选CD1.flac"
+Jan 03 20:22 : exception: Failed to decode PT80.2003.陈奕迅.七 新歌+精选 2CD/2003.陈奕迅.七 新歌+精选 2CD/陈奕迅.七 新歌+精选CD1/陈奕迅.七 新歌+精选CD1.flac
+Jan 03 20:23 : client: [59] opened from 127.0.0.1:52956
+Jan 03 20:23 : client: [59] closed
+Jan 03 20:23 : client: [60] opened from 127.0.0.1:52958
+Jan 03 20:23 : client: [60] closed
+Jan 03 20:23 : client: [61] opened from 127.0.0.1:52964
+Jan 03 20:23 : client: [61] closed
+Jan 03 20:23 : client: [62] opened from 127.0.0.1:52966
+Jan 03 20:23 : client: [62] closed
+Jan 03 20:23 : client: [63] opened from 127.0.0.1:52970
+Jan 03 20:23 : client: [63] closed
+Jan 03 20:23 : client: [64] opened from 127.0.0.1:52972
+Jan 03 20:23 : client: [64] closed
+Jan 03 20:23 : client: [65] opened from 127.0.0.1:52974
+Jan 03 20:23 : client: [65] closed
+Jan 03 20:23 : client: [66] opened from 127.0.0.1:52976
+Jan 03 20:23 : client: [66] closed
+Jan 03 20:23 : client: [67] opened from 127.0.0.1:52978
+Jan 03 20:23 : client: [67] closed
+Jan 03 20:23 : client: [68] opened from 127.0.0.1:52980
+Jan 03 20:23 : client: [68] closed
+Jan 03 20:23 : client: [69] opened from 127.0.0.1:52982
+Jan 03 20:23 : client: [69] closed
+Jan 03 20:23 : client: [70] opened from 127.0.0.1:52990
+Jan 03 20:23 : client: [70] closed
+Jan 03 20:23 : client: [71] opened from 127.0.0.1:52992
+Jan 03 20:23 : client: [71] closed
+Jan 03 20:23 : client: [72] opened from 127.0.0.1:52994
+Jan 03 20:23 : client: [72] closed
+Jan 03 20:23 : client: [73] opened from 127.0.0.1:52996
+Jan 03 20:23 : client: [73] closed
+Jan 03 20:23 : client: [74] opened from 127.0.0.1:52998
+Jan 03 20:23 : client: [74] closed
+Jan 03 20:23 : client: [75] opened from 127.0.0.1:53002
+Jan 03 20:23 : client: [75] closed
+Jan 03 20:23 : client: [76] opened from 127.0.0.1:53006
+Jan 03 20:23 : client: [76] closed
+Jan 03 20:24 : client: [58] closed
+Jan 03 21:08 : player: played "1996.陈奕迅.陈奕迅/陈奕迅.陈奕迅.flac"
+Jan 03 22:16 : player: played "2014.李克勤.精选到无朋友CD3/李克勤.精选到无朋友CD3.flac"
+Jan 03 22:20 : player: played "马克西姆/Croatian Rhapsody 2016/Bumblebee 2016.wav"
+Jan 03 22:22 : player: played "Alan Walker/CD1/135.flac"
+Jan 03 22:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 22:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 03 22:22 : client: [0] opened from 127.0.0.1:54582
+Jan 03 22:22 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 03 22:25 : player: played "Alan Walker/CD1/135.flac"
+Jan 03 22:29 : player: played "iease-music/Bag Raiders - Shooting Stars.mp3"
+Jan 03 22:34 : player: played "iease-music/李克勤 - 月半小夜曲.mp3"
+Jan 03 23:18 : client: [1] opened from 127.0.0.1:57502
+Jan 03 23:18 : client: [1] closed
+Jan 04 14:40 : player: played "2004.李克勤.容祖儿.压轴拉阔音乐会/李克勤.容祖儿.压轴拉阔音乐会CD1/李克勤.容祖儿.压轴拉阔音乐会CD1.flac"
+Jan 04 14:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 04 14:40 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 04 14:40 : client: [0] opened from 127.0.0.1:33878
+Jan 05 00:32 : client: [1] opened from 127.0.0.1:54632
+Jan 05 00:32 : client: [1] closed
+Jan 05 00:32 : client: [2] opened from 127.0.0.1:54638
+Jan 05 00:32 : client: [2] closed
+Jan 05 00:32 : client: [3] opened from 127.0.0.1:54640
+Jan 05 00:32 : client: [3] closed
+Jan 05 00:49 : player: played "2014.李克勤.精选到无朋友CD4/李克勤.精选到无朋友CD4.flac"
+Jan 05 00:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 00:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 00:49 : client: [0] opened from 127.0.0.1:41280
+Jan 05 00:49 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 05 00:50 : client: [1] opened from 127.0.0.1:41294
+Jan 05 00:50 : client: [1] closed
+Jan 05 00:50 : client: [2] opened from 127.0.0.1:41298
+Jan 05 00:51 : client: [2] closed
+Jan 05 00:58 : client: [3] opened from 127.0.0.1:41706
+Jan 05 00:58 : client: [3] closed
+Jan 05 09:18 : client: [4] opened from 127.0.0.1:42356
+Jan 05 09:18 : client: [4] closed
+Jan 05 09:55 : player: played "1996.陈奕迅.陈奕迅/陈奕迅.陈奕迅.flac"
+Jan 05 09:59 : player: played "马克西姆/Croatian Rhapsody 2016/Above the Clouds.wav"
+Jan 05 10:33 : player: played "2013.李克勤.复克/李克勤.复克.flac"
+Jan 05 11:24 : player: played "2009.李克勤.谭咏麟.左麟右李演唱会/李克勤.谭咏麟.左麟右李演唱会CD1/李克勤.谭咏麟.左麟右李演唱会CD1.flac"
+Jan 05 12:09 : client: [5] opened from 127.0.0.1:46378
+Jan 05 12:09 : client: [5] closed
+Jan 05 23:55 : player: played "1996.李克勤.宝丽金88极品音色系列/李克勤.宝丽金88极品音色系列CD2/李克勤.宝丽金88极品音色系列CD2.flac"
+Jan 05 23:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 23:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 23:56 : client: [0] opened from 127.0.0.1:44348
+Jan 05 23:56 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 06 17:38 : client: [1] opened from 127.0.0.1:51092
+Jan 06 17:38 : client: [1] closed
+Jan 06 17:44 : client: [2] opened from 127.0.0.1:51242
+Jan 06 17:44 : client: [2] closed
+Jan 06 17:44 : client: [3] opened from 127.0.0.1:51246
+Jan 06 17:44 : client: [3] closed
+Jan 06 17:44 : client: [4] opened from 127.0.0.1:51248
+Jan 06 17:44 : client: [4] closed
+Jan 06 17:44 : client: [5] opened from 127.0.0.1:51252
+Jan 06 17:44 : client: [5] closed
+Jan 06 17:45 : client: [6] opened from 127.0.0.1:51278
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 06 17:47 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 06 17:47 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 06 17:47 : exception: Failed to decode PT80.1997.陈奕迅.一滴眼泪/1997.陈奕迅.一滴眼泪/陈奕迅.一滴眼泪.flac
+Jan 06 17:47 : player: played "PT80.1997.陈奕迅.一滴眼泪/1997.陈奕迅.一滴眼泪/陈奕迅.一滴眼泪.flac"
+Jan 06 17:47 : exception: Failed to decode PT80.1997.陈奕迅.一滴眼泪/1997.陈奕迅.一滴眼泪/陈奕迅.一滴眼泪.flac
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:47 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 06 17:47 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 06 17:47 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 06 17:47 : exception: Failed to decode PT80.2001.陈奕迅.Eason 18首选/2001.陈奕迅.Eason 18首选/陈奕迅.Eason 18首选.flac
+Jan 06 17:47 : player: played "PT80.2001.陈奕迅.Eason 18首选/2001.陈奕迅.Eason 18首选/陈奕迅.Eason 18首选.flac"
+Jan 06 17:47 : exception: Failed to decode PT80.2001.陈奕迅.Eason 18首选/2001.陈奕迅.Eason 18首选/陈奕迅.Eason 18首选.flac
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Jan 06 17:48 : ffmpeg/flac: Format flac detected only with low score of 1, misdetection possible!
+Jan 06 17:48 : ffmpeg/flac: Could not find codec parameters for stream 0 (Audio: flac, 0 channels): unspecified sample format
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Jan 06 17:48 : ffmpeg: Unsupported libavcodec SampleFormat value: name   depth (-1)
+Jan 06 17:48 : exception: Failed to decode PT80.2006.陈奕迅.我的最好时代 3CD/2006.陈奕迅.我的最好时代 3CD/陈奕迅.我的最好时代CD1/陈奕迅.我的最好时代CD1.flac
+Jan 06 17:48 : player: played "PT80.2006.陈奕迅.我的最好时代 3CD/2006.陈奕迅.我的最好时代 3CD/陈奕迅.我的最好时代CD1/陈奕迅.我的最好时代CD1.flac"
+Jan 06 17:48 : exception: Failed to decode PT80.2006.陈奕迅.我的最好时代 3CD/2006.陈奕迅.我的最好时代 3CD/陈奕迅.我的最好时代CD1/陈奕迅.我的最好时代CD1.flac
+Jan 06 17:48 : client: [6] closed
+Jan 06 18:06 : client: [7] opened from 127.0.0.1:52544
+Jan 06 18:06 : client: [7] closed
+Jan 06 18:06 : client: [8] opened from 127.0.0.1:52546
+Jan 06 18:06 : client: [8] closed
+Jan 06 18:06 : client: [9] opened from 127.0.0.1:52550
+Jan 06 18:06 : client: [9] closed
+Jan 06 18:06 : client: [10] opened from 127.0.0.1:52552
+Jan 06 18:06 : client: [10] closed
+Jan 06 18:06 : client: [11] opened from 127.0.0.1:52554
+Jan 06 18:06 : client: [11] closed
+Jan 06 23:42 : player: played "2014.李克勤.精选到无朋友CD2/李克勤.精选到无朋友CD2.flac"
+Jan 06 23:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 23:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 06 23:43 : client: [0] opened from 127.0.0.1:58292
+Jan 06 23:43 : avahi: Service 'Music Player @ BORBER' successfully established.
+Jan 07 11:42 : client: [0] closed
+Jan 07 11:42 : client: [1] opened from 127.0.0.1:54192
+Jan 07 11:44 : client: [1] closed
+Jan 07 11:44 : client: [2] opened from 127.0.0.1:54240
+Jan 07 11:52 : client: [2] closed
+Jan 07 11:52 : client: [3] opened from 127.0.0.1:54476
+Jan 07 16:38 : client: [4] opened from 127.0.0.1:40008
+Jan 07 16:38 : client: [4] closed
+Jan 07 16:39 : client: [5] opened from 127.0.0.1:40048
+Jan 07 16:39 : client: [5] closed
+Jan 07 23:55 : client: [6] opened from 127.0.0.1:50662
+Jan 07 23:55 : client: [6] closed
+Jan 07 23:56 : client: [7] opened from 127.0.0.1:50782
+Jan 07 23:56 : client: [7] closed
+Jan 08 00:09 : client: [8] opened from 127.0.0.1:51624
+Jan 08 00:09 : client: [8] closed
+Jan 08 00:36 : client: [9] opened from 127.0.0.1:53050
+Jan 08 00:36 : client: [10] opened from 127.0.0.1:53072
+Jan 08 00:36 : client: [10] closed
+Jan 08 09:33 : client: [9] closed
